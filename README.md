@@ -19,6 +19,7 @@ My GitHub info:
 ### :bar_chart: DS Projects
 #### Machine Learning Projects
 - [🏦 Credit Card Fraud Transcation Detection](https://github.com/ghjohntseng/Credit-Card-Fraud-Transaction/blob/main/Credit%20Card%20Fraud%20Transaction%20report.pdf)
+- [📲 Telco Customers Churn Segmentation and Prediction](https://github.com/ghjohntseng/Telco-Customers-Churn-Segmentation-and-Prediction/blob/main/Telco%20Customers%20Churn%20Segmentation%20and%20Prediction.ipynb)
 
 #### Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
