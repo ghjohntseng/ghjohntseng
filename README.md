@@ -21,6 +21,7 @@ My GitHub info:
 
 #### Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
+- [🏦 Credit Card Fraud Transcation Detection](https://github.com/ghjohntseng/Credit-Card-Fraud-Transaction/blob/main/Credit%20Card%20Fraud%20Transaction%20report.pdf)
 
 ### 🧙‍♂️ Deep Learning Projects
 
