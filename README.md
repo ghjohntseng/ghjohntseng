@@ -10,12 +10,11 @@ My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghjohntseng&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjohntseng&hide_progress=true&theme=radical" width="350"/></a> 
 
 ---
 
 ### 📇 DA Projects
-
+- [🥘 Sentiment Analysis and EDA of Restaurant Reviews](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_Recommendation_System.ipynb)
 
 ### :bar_chart: DS Projects
 #### Machine Learning Projects
