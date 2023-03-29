@@ -31,6 +31,7 @@ My GitHub info:
 
 #### 🗣Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
+- [🥘 Neural Machine Translation]
 
 ### 🧙‍♂️ Deep Learning Projects
 
