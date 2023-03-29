@@ -13,6 +13,12 @@ My GitHub info:
 
 ---
 
+### On Going Project
+- [🧾 Smart Money | **SpringBoot** | *In Development...*](https://github.com/ghjohntseng/Bill_Split)
+
+-- An application for tracking shared expenses and balances with housemates, trips, groups, and individuals
+
+---
 ### 📇 DA Projects
 - [🥘 Sentiment Analysis and EDA of Restaurant Reviews](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_Recommendation_System.ipynb)
 
