@@ -20,6 +20,7 @@ My GitHub info:
 #### Machine Learning Projects
 
 #### Natural Language Processing Projects
+- [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
 
 ### 🧙‍♂️ Deep Learning Projects
 
