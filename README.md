@@ -31,14 +31,15 @@ My GitHub info:
 
 #### 🗣Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
-- [🥘 Neural Machine Translation| *Updating...*]()
+- [ Neural Machine Translation| *Updating...*]()
 
 ### 🧙‍♂️ Deep Learning Projects
 
 ---
 
 ### 📔Study Notebooks
-- [📓 Statistical Machine Learning | *Updating...*]()
+- [📓 Statistical Machine Learning | *Updating...*](https://github.com/ghjohntseng/Statistical-Machine-Learning-Notebook.git
+- )
 
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
