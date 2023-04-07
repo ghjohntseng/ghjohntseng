@@ -38,8 +38,7 @@ My GitHub info:
 ---
 
 ### 📔Study Notebooks
-- [📓 Statistical Machine Learning | *Updating...*](https://github.com/ghjohntseng/Statistical-Machine-Learning-Notebook.git
-- )
+- [📓 Statistical Machine Learning | *Updating...*](https://github.com/ghjohntseng/Statistical-Machine-Learning-Notebook.git)
 
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
