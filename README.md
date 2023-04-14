@@ -21,7 +21,7 @@ My GitHub info:
 ---
 ### 📇 DA Projects
 - [🥘 Sentiment Analysis and EDA of Restaurant Reviews](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_Recommendation_System.ipynb)
-- [💳Customer Credit Risk Prediction]()
+- [💳Customer Credit Risk Prediction](https://github.com/ghjohntseng/Customer_Credit_Risk_Prediction/blob/main/Customer_Credit_Risk_Prediction.ipynb)
 
 
 ### :bar_chart: DS Projects
