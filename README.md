@@ -33,7 +33,7 @@ My GitHub info:
 
 #### 🗣Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
-- [ Neural Machine Translation| *Updating...*](https://github.com/ghjohntseng/Customer_Credit_Risk_Prediction/blob/main/Customer_Credit_Risk_Prediction.ipynb)
+- [🧠 Neural Machine Translation| *Updating...*](https://github.com/ghjohntseng/Customer_Credit_Risk_Prediction/blob/main/Customer_Credit_Risk_Prediction.ipynb)
 
 ### 🧙‍♂️ Deep Learning Projects
 
