@@ -33,7 +33,7 @@ My GitHub info:
 
 #### 🗣Natural Language Processing Projects
 - [🥘 Restaurant Recommendaton System](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_recommendation_system_ds.ipynb)
-- [🧠 Neural Machine Translation| *Updating...*](https://github.com/ghjohntseng/Neural-Translation-Machine-from-ZH-to-EN/blob/main/NMT_Microblog_ZH_to_EN_Bi_GRU_%2B_Attention_%2B_Fasttext_word_embedding_%2B_k_Beam_search_%2B_BLEU_score_40_epochs.ipynb)
+- [🧠 Neural Machine Translation](https://github.com/ghjohntseng/Neural-Translation-Machine-from-ZH-to-EN/blob/main/NMT_Microblog_ZH_to_EN_Bi_GRU_%2B_Attention_%2B_Fasttext_word_embedding_%2B_k_Beam_search_%2B_BLEU_score_40_epochs.ipynb)
 
 ### 🧙‍♂️ Deep Learning Projects
 
