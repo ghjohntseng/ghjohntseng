@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
-I'm Chun-chieh(John) Tseng, a statistics graduate student at Columbia. My career pursue is towards becoming a ["DE/DS/DA"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
+I'm Chun-chieh(John) Tseng, a statistics graduate student at Columbia. My career pursue is towards becoming a ["Full-Stack Data Analytics"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
 
 My GitHub info:
 
