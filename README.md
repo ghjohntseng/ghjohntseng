@@ -40,8 +40,8 @@ My GitHub info:
 ---
 
 ### 📔Study Notebooks
-- [📓 Statistical Machine Learning | *Updating...*](https://github.com/ghjohntseng/Statistical-Machine-Learning-Notebook.git)
-- [📓 Sequences, Time Series and Prediction | *Updating...*]()
+- [📓 Statistical Machine Learning](https://github.com/ghjohntseng/Statistical-Machine-Learning-Notebook.git)
+- [📓 Sequences, Time Series and Prediction](https://github.com/ghjohntseng/Time-Series-Analysis-in-Python)
 - [🎨Tableau| *Updating...*]()
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
