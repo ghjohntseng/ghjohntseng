@@ -18,6 +18,11 @@ My GitHub info:
 
 -- An application for tracking shared expenses and balances with housemates, trips, groups, and individuals
 
+- [📈 TSLA Stock Pattern Recognition and Strategy System](https://github.com/ghjohntseng/TSLA-Stock-Anaylsis)
+  
+-- Auto-detects support/resistance, recognizes symmetrical triangle patterns, suggests breakout strategy, and visualizes the entire technical process with backtesting and alerts.
+
+
 ---
 ### 📇 DA Projects
 - [🥘 Sentiment Analysis and EDA of Restaurant Reviews](https://github.com/ghjohntseng/Restaurant-Recommendation-System/blob/main/Restaurant_Recommendation_System.ipynb)
