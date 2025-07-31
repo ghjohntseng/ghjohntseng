@@ -18,6 +18,13 @@ My GitHub info:
 
 -- An application for tracking shared expenses and balances with housemates, trips, groups, and individuals
 
+- [📊 Stock Technical Chart CLI Tool | *Python + Matplotlib*](https://github.com/ghjohntseng/stock-tech-analyzer)
+
+-- A cross-platform CLI tool for visualizing K-line charts with RSI, MACD, breakout arrows, and price channels.  
+Supports interactive input (ticker, date range), works on macOS & Windows with `.sh` / `.bat` launcher.   ⏱️ *Last updated: Jul 31, 2025*
+
+![sample chart](https://raw.githubusercontent.com/ghjohntseng/stock-tech-analyzer/main/sample_chart.png)
+
 - [📈 TSLA Stock Pattern Recognition and Strategy System](https://github.com/ghjohntseng/TSLA-Stock-Anaylsis)
   
 -- Auto-detects support/resistance, recognizes symmetrical triangle patterns, suggests breakout strategy, and visualizes the entire technical process with backtesting and alerts.
