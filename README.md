@@ -14,9 +14,10 @@ My GitHub info:
 ---
 
 ### On Going Project
-- [🧾 Smart Money | **SpringBoot** | *In Development...*](https://github.com/ghjohntseng/Bill_Split)
+- [📱 BillBuddy | **React Native + Expo** | *Multi-Currency Split App*](https://github.com/ghjohntseng/BillBuddy)
 
--- An application for tracking shared expenses and balances with housemates, trips, groups, and individuals
+-- A sleek mobile app to manage shared bills across events, travel, or roommates. Supports multiple currencies, editable bills, dynamic participants, and local storage.  
+⏱️ *Last updated: Aug 4, 2025*
 
 - [📊 Stock Technical Chart CLI Tool | *Python + Matplotlib*](https://github.com/ghjohntseng/stock-tech-analyzer)
 
