@@ -15,9 +15,26 @@ My GitHub info:
 
 ### On Going Project
 
-- [🕵️‍♂️ Unusual Options Flow Analyzer | *Python, Pandas, Cron*](https://ghjohntseng.github.io/Unusual_flow_database_dashboard/)
+- [🕵️‍♂️ Unusual Options Flow Analyzer | *Python, Pandas, SQLAlchemy, APScheduler, HTML5/CSS3/JS, Streamlit, Plotly, GitHub Pages, Polygon.io API, Cron*](https://ghjohntseng.github.io/Unusual_flow_database_dashboard/)
 
 -- An automated system to detect unusual options activity in the US stock market. This tool fetches daily options chain data from the Polygon.io API, calculates key metrics (ΔOI, estimated premium, IV change), and generates daily analysis reports. The entire workflow is automated via Cron jobs for end-of-day data collection and next-morning report generation.
+
+**🚀 LIVE Dashboard** - Professional real-time options flow monitoring with interactive data visualization, automated sentiment analysis, and responsive design.
+
+**📊 Key Features:**
+- Real-time options data processing from Polygon.io API
+- Advanced metrics calculation (ΔOI, premium estimation, IV changes, sentiment analysis)
+- Interactive web dashboard with sorting, filtering, and responsive design
+- Automated daily data collection and report generation via Cron jobs
+- Database persistence with SQLite for historical data tracking
+- Professional dark theme UI optimized for financial data analysis
+  
+**🛠️ Architecture:**
+- Backend: Python data processing pipeline with Pandas, SQLAlchemy, APScheduler
+- Frontend: Modern web interface with HTML5/CSS3/JavaScript
+- Visualization: Streamlit dashboards and Plotly charts
+- Deployment: Automated GitHub Pages hosting
+- Data Source: Polygon.io API integration
 ⏱️ *Last updated: Sep 18, 2025*
 
 - [📱 BillBuddy | **React Native + Expo** | *Multi-Currency Split App*](https://github.com/ghjohntseng/BillBuddy)
