@@ -15,7 +15,7 @@ My GitHub info:
 
 ### On Going Project
 
-- [🕵️‍♂️ Unusual Options Flow Analyzer | *Python, Pandas, Cron*]([https://github.com/ghjohntseng/Unusual-Flow-Database](https://ghjohntseng.github.io/Unusual_flow_database_dashboard/))
+- [🕵️‍♂️ Unusual Options Flow Analyzer | *Python, Pandas, Cron*]((https://ghjohntseng.github.io/Unusual_flow_database_dashboard/)
 
 -- An automated system to detect unusual options activity in the US stock market. This tool fetches daily options chain data from the Polygon.io API, calculates key metrics (ΔOI, estimated premium, IV change), and generates daily analysis reports. The entire workflow is automated via Cron jobs for end-of-day data collection and next-morning report generation.
 ⏱️ *Last updated: Sep 18, 2025*
