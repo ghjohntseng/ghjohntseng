@@ -14,6 +14,12 @@ My GitHub info:
 ---
 
 ### On Going Project
+
+- [🕵️‍♂️ Unusual Options Flow Analyzer | *Python, Pandas, Cron*](https://github.com/ghjohntseng/Unusual-Flow-Database)
+
+-- An automated system to detect unusual options activity in the US stock market. This tool fetches daily options chain data from the Polygon.io API, calculates key metrics (ΔOI, estimated premium, IV change), and generates daily analysis reports. The entire workflow is automated via Cron jobs for end-of-day data collection and next-morning report generation.
+⏱️ *Last updated: Sep 18, 2025*
+
 - [📱 BillBuddy | **React Native + Expo** | *Multi-Currency Split App*](https://github.com/ghjohntseng/BillBuddy)
 
 -- A sleek mobile app to manage shared bills across events, travel, or roommates. Supports multiple currencies, editable bills, dynamic participants, and local storage.  
